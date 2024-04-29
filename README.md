@@ -36,6 +36,7 @@ Desarrolladora Front End y Full Strack. Actualmente me especializo en JavaScript
 ### 🔧 Base de datos
 - Postgresql
 - MongoDB
+- MySql
 
 ### 🔒️ DevOps
 - Shell
