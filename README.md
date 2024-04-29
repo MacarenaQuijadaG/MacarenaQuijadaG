@@ -1,16 +1,66 @@
-### Hi there 👋
+
+#  👋  Macarena Quijada Guzmán
+
+Desarrollador Front End y Full Strack. Actualmente me especializo en JavaScript y sus frameworks como Angular , React y Vue
+
+## 🌐 Enlaces útiles
+
+- 👨‍💻 Todos mis proyectos están disponibles en [Github](https://github.com/MacarenaQuijadaG)
+
+## 💡 Habilidades y conocimientos
+
+- 💬 Pregúntame sobre **Frontend**, **Backend**
+- ⚡ Dato curioso: **Me encanta hacer diseños y maquetas**
+
+## 📫 Contacto
+
+- Puedes contactarme a través de mi correo electrónico: **mcarena.quijada@outlook.com**
+
+### 🧑‍💻 Lenguajes de programación
+- PHP (Laravel - Drupal 8)
+- Javascript (React)
+- Python (Django)
+
+### 🎨 Desarrollo Frontend
+
+- Html
+- css
+- Bootstrap
+- Sass
+- Bem
+  
+### 🔨 Desarrollo Backend
+- Node.js
+- Express.ja
+
+### 🔧 Base de datos
+- Postgresql
+- MongoDB
+
+### 🔒️ DevOps
+- Shell
+- Bash
+- Linux
+
+### 📝 Version control system
+- Git
+- Git hub
+- Bitbucket
 
 
-**MacarenaQuijadaG/MacarenaQuijadaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🗃️ Software
+- Visual Code
+- Sublime Text
+- Postman
+- Windows
+- Linux
+- Ubuntu
+- Figma
+- Adobe xd
+- Dbeaver
+- Trello
+- Jira
+- Redbooth
+- Slack
+- Discord
 
