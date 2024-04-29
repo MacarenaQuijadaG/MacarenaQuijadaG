@@ -31,7 +31,7 @@ Desarrolladora Front End y Full Strack. Actualmente me especializo en JavaScript
   
 ### 🔨 Desarrollo Backend
 - Node.js
-- Express.ja
+- Express.js
 
 ### 🔧 Base de datos
 - Postgresql
