@@ -24,7 +24,7 @@ Desarrolladora Front End y Full Stack. Actualmente me especializo en JavaScript 
 ### 🎨 Desarrollo Frontend
 
 - Html
-- css
+- Css
 - Bootstrap
 - Sass
 - Bem
