@@ -1,7 +1,7 @@
 
 #  👋  Macarena Quijada Guzmán
 
-Desarrolladora Front End y Full Strack. Actualmente me especializo en JavaScript y sus frameworks como Angular , React y Vue
+Desarrolladora Front End y Full Stack. Actualmente me especializo en JavaScript y sus frameworks como Angular , React y Vue
 
 ## 🌐 Enlaces útiles
 
