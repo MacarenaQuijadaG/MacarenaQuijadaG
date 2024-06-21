@@ -88,13 +88,13 @@ Desarrolladora apasionada por la creación de interfaces de usuario intuitivas y
 ## 📈 Proyectos Destacados
 
 ### [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
-Este programa es para estudiantes y docentes. Los estudiantes, pueden crear informes de tesis llenos de ideas brillantes. Por otro lado, los docentes, con su sabiduría y experiencia, revisan estos informes y dejan observaciones constructivas para ayudar a los estudiantes a pulir sus trabajos. tecnologías para el desarrollo fueron Python y Django con PostgreSQL.
+Este programa está diseñado para estudiantes y docentes. Los estudiantes pueden crear informes de tesis llenos de ideas brillantes. Por otro lado, los docentes, con su sabiduría y experiencia, revisan estos informes y dejan observaciones constructivas para ayudar a los estudiantes a pulir sus trabajos. Las tecnologías utilizadas para el desarrollo fueron Python y Django, junto con PostgreSQL.
 
 ### [Mercado Web](https://github.com/MacarenaQuijadaG/Mercado-web.git)
-El proyecto consiste en una tienda que vende verduras y estas las añade en un carrito de compras, tecnologías para su desarrollo fueron Handlebars, node y express.js.
+Este proyecto consiste en una tienda en línea que vende verduras y permite añadirlas a un carrito de compras. Las tecnologías utilizadas para su desarrollo fueron Handlebars, Node.js y Express.js.
 
 ### [Banco Solar](https://github.com/MacarenaQuijadaG/Banco-Solar.git)
-El proyecto consiste en transacciones de un usuario a otro, tecnologías que se utilizaron html,javascript, node, express.js y PostgreSQL
+Este proyecto consiste en un sistema de transacciones entre usuarios. Las tecnologías utilizadas fueron HTML, JavaScript, Node.js, Express.js y PostgreSQL.
 
 ---
 
