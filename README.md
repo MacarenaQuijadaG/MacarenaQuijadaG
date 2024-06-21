@@ -17,7 +17,7 @@ Desarrolladora Front End y Full Stack. Actualmente me especializo en JavaScript 
 - Puedes contactarme a través de mi correo electrónico: **mcarena.quijada@outlook.com**
 
 ### 🧑‍💻 Lenguajes de programación
-- PHP (Laravel - Drupal 8)
+- PHP (Laravel)
 - Javascript (React)
 - Python (Django)
 
@@ -45,7 +45,7 @@ Desarrolladora Front End y Full Stack. Actualmente me especializo en JavaScript 
 
 ### 📝 Version control system
 - Git
-- Git hub
+- Git Bub
 - Bitbucket
 
 
