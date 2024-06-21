@@ -3,29 +3,29 @@
 **Desarrolladora Front End y Full Stack**  
 Actualmente me especializo en JavaScript y sus frameworks como Angular, React y Vue.
 
+---
+
 ## 🌐 Enlaces útiles
 
 - 👨‍💻 Todos mis proyectos están disponibles en [Github](https://github.com/MacarenaQuijadaG)
 
-## 💡 Habilidades y conocimientos
+---
 
-- 💬 Pregúntame sobre **Frontend**, **Backend**
-- ⚡ Dato curioso: **Me encanta hacer diseños y maquetas**
+## 💡 Sobre mí
 
-## 📫 Contacto
-
-Puedes contactarme a través de mi correo electrónico:  
-**mcarena.quijada@outlook.com**
+Desarrolladora apasionada por la creación de interfaces de usuario intuitivas y atractivas. Disfruto trabajando tanto en el frontend como en el backend, y me encanta aprender nuevas tecnologías y mejorar mis habilidades.
 
 ---
 
-### 🧑‍💻 Lenguajes de programación
+## 🧑‍💻 Lenguajes de programación
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 Desarrollo Frontend
+---
+
+## 🎨 Desarrollo Frontend
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,30 +33,40 @@ Puedes contactarme a través de mi correo electrónico:
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white)
 
-### 🔨 Desarrollo Backend
+---
+
+## 🔨 Desarrollo Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🔧 Base de datos
+---
+
+## 🔧 Base de datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔒️ DevOps
+---
+
+## 🔒️ DevOps
 
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📝 Version control system
+---
+
+## 📝 Version control system
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-### 🗃️ Software
+---
+
+## 🗃️ Software
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
@@ -75,4 +85,24 @@ Puedes contactarme a través de mi correo electrónico:
 
 ---
 
+## 📈 Proyectos Destacados
 
+### [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
+Este programa es para estudiantes y docentes. Los estudiantes, pueden crear informes de tesis llenos de ideas brillantes. Por otro lado, los docentes, con su sabiduría y experiencia, revisan estos informes y dejan observaciones constructivas para ayudar a los estudiantes a pulir sus trabajos. tecnologías para el desarrollo fueron Python y Django con PostgreSQL.
+
+### [Mercado Web](https://github.com/MacarenaQuijadaG/Mercado-web.git)
+El proyecto consiste en una tienda que vende verduras y estas las añade en un carrito de compras, tecnologías para su desarrollo fueron Handlebars, node y express.js.
+
+### [Banco Solar](https://github.com/MacarenaQuijadaG/Banco-Solar.git)
+El proyecto consiste en transacciones de un usuario a otro, tecnologías que se utilizaron html,javascript, node, express.js y PostgreSQL
+
+---
+
+## 📫 Contacto
+
+Puedes contactarme a través de mi correo electrónico:  
+**mcarena.quijada@outlook.com**
+
+¡Gracias por visitar mi perfil!
+
+---
