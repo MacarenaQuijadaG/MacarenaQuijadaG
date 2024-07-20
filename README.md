@@ -13,7 +13,7 @@ Actualmente me especializo en JavaScript y sus frameworks como Angular, React y 
 
 ## 💡 Sobre mí
 
-Desarrolladora apasionada por la creación de interfaces de usuario intuitivas y atractivas. Disfruto trabajando tanto en el frontend como en el backend, y me encanta aprender nuevas tecnologías y mejorar mis habilidades.
+Desarrolladora apasionada por la creación de interfaces de usuario intuitivas y atractivas. Disfruto trabajando tanto en el frontend como en el backend, me encanta aprender nuevas tecnologías y mejorar mis habilidades.
 
 ---
 
