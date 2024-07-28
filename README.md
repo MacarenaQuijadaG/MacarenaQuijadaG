@@ -4,6 +4,11 @@
 Actualmente me especializo en JavaScript y sus frameworks como Angular, React y Vue.
 
 ---
+## 💡 Sobre mí
+
+Desarrolladora apasionada por la creación de interfaces de usuario intuitivas y atractivas. Disfruto trabajando tanto en el frontend como en el backend, me encanta aprender nuevas tecnologías y mejorar mis habilidades.
+
+---
 
 ## 📊 Estadísticas de GitHub
 
@@ -15,11 +20,6 @@ Actualmente me especializo en JavaScript y sus frameworks como Angular, React y 
 
 ---
 
-## 💡 Sobre mí
-
-Desarrolladora apasionada por la creación de interfaces de usuario intuitivas y atractivas. Disfruto trabajando tanto en el frontend como en el backend, me encanta aprender nuevas tecnologías y mejorar mis habilidades.
-
----
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" />
   <img width="12" />
