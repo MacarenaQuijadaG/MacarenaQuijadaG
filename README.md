@@ -1,6 +1,6 @@
 # 👋 Macarena Quijada Guzmán
 
-**Desarrolladora Front End y Full Stack**  
+**Ingeniera Informatica, Desarrolladora Front End y Full Stack**  
 Actualmente me especializo en JavaScript y sus frameworks como Angular, React y Vue.
 
 ---
