@@ -11,6 +11,16 @@ Actualmente me especializo en JavaScript y sus frameworks como Angular, React y 
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MacarenaQuijadaG&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=es&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacarenaQuijadaG&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+
+---
+
 ## 💡 Sobre mí
 
 Desarrolladora apasionada por la creación de interfaces de usuario intuitivas y atractivas. Disfruto trabajando tanto en el frontend como en el backend, me encanta aprender nuevas tecnologías y mejorar mis habilidades.
@@ -106,3 +116,4 @@ Puedes contactarme a través de mi correo electrónico:
 ¡Gracias por visitar mi perfil!
 
 ---
+
