@@ -1,11 +1,13 @@
 # 👋 Macarena Quijada Guzmán
 
-**Ingeniera Informatica** 
-***Instituto Profesional Virginio Gomez,2020***
-**Desarrollador Front End**
-***Edutecno,2023.***
+**Ingeniera Informática**  
+*Instituto Profesional Virginio Gómez, 2020*
+
+**Desarrollador Front End**  
+*Edutecno, 2023*
+
 **Desarrollador Full Stack**  
-***Desafio Latam,2024.***
+*Desafío Latam, 2024*
 
 ---
 ## 💡 Sobre mí
