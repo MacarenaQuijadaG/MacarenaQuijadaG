@@ -1,7 +1,11 @@
 # 👋 Macarena Quijada Guzmán
 
-**Ingeniera Informatica, Desarrolladora Front End y Full Stack**  
-Actualmente me especializo en JavaScript y sus frameworks como Angular, React y Vue.
+**Ingeniera Informatica** 
+***Instituto Profesional Virginio Gomez,2020***
+**Desarrollador Front End**
+***Edutecno,2023.***
+**Desarrollador Full Stack**  
+***Desafio Latam,2024.***
 
 ---
 ## 💡 Sobre mí
