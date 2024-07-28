@@ -5,12 +5,6 @@ Actualmente me especializo en JavaScript y sus frameworks como Angular, React y 
 
 ---
 
-## 🌐 Enlaces útiles
-
-- 👨‍💻 Todos mis proyectos están disponibles en [Github](https://github.com/MacarenaQuijadaG)
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
