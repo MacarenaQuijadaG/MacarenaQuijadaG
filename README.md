@@ -49,7 +49,7 @@ Soy una desarrolladora apasionada por la creación de interfaces de usuario intu
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" />
   <img width="15" />
-  <img src="https://img.icons8.com/ultraviolet/40/handlebars.png" height="40" alt="Handlebars logo" />
+  <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fhandlebarsjs%2Fhandlebarsjs-icon.svg" height="40" alt="Handlebars logo" />
 </div>
 
 ### Bases de Datos
