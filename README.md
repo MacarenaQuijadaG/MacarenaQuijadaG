@@ -124,5 +124,4 @@ Un sistema de transacciones entre usuarios. Tecnologías: HTML, JavaScript, Node
 
 Puedes contactarme a través de:  
 - **mcarena.quijada@outlook.com**
-
-  -[LinkedIn(https://www.linkedin.com/in/macarena-quijada-guzm%C3%A1n-430263191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn(https://www.linkedin.com/in/macarena-quijada-guzm%C3%A1n-430263191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
