@@ -71,6 +71,18 @@ Soy desarrolladora apasionada por la creación de interfaces de usuario intuitiv
 </div>
 
 ---
+## 📈 Proyectos Destacados
+
+### [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
+Un programa diseñado para estudiantes y docentes. Los estudiantes pueden crear informes de tesis detallados, mientras que los docentes pueden revisarlos y proporcionar observaciones constructivas. Tecnologías: Python, Django, PostgreSQL.
+
+### [Mercado Web](https://github.com/MacarenaQuijadaG/Mercado-web.git)
+Una tienda en línea para vender verduras, con función de carrito de compras. Tecnologías: Handlebars, Node.js, Express.js.
+
+### [Banco Solar](https://github.com/MacarenaQuijadaG/Banco-Solar.git)
+Un sistema de transacciones entre usuarios. Tecnologías: HTML, JavaScript, Node.js, Express.js, PostgreSQL.
+
+---
 
 ## 📫 Contacto
 
