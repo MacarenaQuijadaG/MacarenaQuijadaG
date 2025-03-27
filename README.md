@@ -1,4 +1,4 @@
-# 👋 Hola, soy Macarena Quijada
+# 👋 Hola, soy Macarena
 
 **Ingeniera Informática**,   *(Desarrolladora Front End - Full Stack)*
 
