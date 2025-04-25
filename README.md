@@ -2,9 +2,6 @@
 
 **Ingeniera Informática**,   *(Desarrolladora Front End - Full Stack)*
 
-## 💡 Sobre mí
-
-Soy desarrolladora apasionada por la creación de interfaces de usuario intuitivas y atractivas. Me especializo en desarrollo tanto frontend como backend, y siempre estoy ansiosa por aprender nuevas tecnologías y mejorar mis habilidades.
 
 ---
 
