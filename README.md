@@ -1,7 +1,7 @@
-# 👋 Hola, soy Maca!
+# 👋 ¡Hola, soy Maca!
 
-**Ingeniera Informática**,   *(Desarrolladora Front End - Full Stack)*
-
+**Ingeniera en Ejecución en Computación e Informática**  
+*(Desarrolladora Front End - Full Stack)*
 
 ---
 
@@ -68,21 +68,26 @@
 </div>
 
 ---
+
 ## 📈 Proyectos Destacados
 
 ### [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
-Un programa diseñado para estudiantes y docentes. Los estudiantes pueden crear informes de tesis detallados, mientras que los docentes pueden revisarlos y proporcionar observaciones constructivas. Tecnologías: Python, Django, PostgreSQL.
+Un sistema que permite a estudiantes crear informes de tesis detallados y a docentes revisar y proporcionar observaciones.  
+**Tecnologías:** Python, Django, PostgreSQL
 
 ### [Mercado Web](https://github.com/MacarenaQuijadaG/Mercado-web.git)
-Una tienda en línea para vender verduras, con función de carrito de compras. Tecnologías: Handlebars, Node.js, Express.js.
+Una tienda en línea para vender verduras, con carrito de compras.  
+**Tecnologías:** Handlebars, Node.js, Express.js
 
 ### [Banco Solar](https://github.com/MacarenaQuijadaG/Banco-Solar.git)
-Un sistema de transacciones entre usuarios. Tecnologías: HTML, JavaScript, Node.js, Express.js, PostgreSQL.
+Sistema de transacciones entre usuarios.  
+**Tecnologías:** HTML, JavaScript, Node.js, Express.js, PostgreSQL
 
 ---
 
 ## 📫 Contacto
 
 Puedes contactarme a través de:  
-- **mcarena.quijada@outlook.com**  
+- **Email:** [mcarena.quijada@outlook.com](mailto:mcarena.quijada@outlook.com)  
 - [LinkedIn](https://www.linkedin.com/in/macarena-quijada-guzm%C3%A1n-430263191/)
+
