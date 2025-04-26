@@ -3,6 +3,8 @@
 **Ingeniera en Ejecución en Computación e Informática**  
 *(Desarrolladora Front End - Full Stack)*
 
+Soy una apasionada desarrolladora con experiencia en diversas tecnologías web, desde el desarrollo Front-End hasta el Back-End. Me encanta crear soluciones eficientes y escalables, siempre buscando mejorar la experiencia del usuario y optimizar los procesos de desarrollo. Me especializo en tecnologías como JavaScript, Python, Node.js, y más, trabajando con frameworks como React, Angular y Django. ¡Estoy en constante aprendizaje y siempre en busca de nuevos desafíos!
+
 ---
 
 ## 🛠️ Herramientas y Tecnologías
@@ -66,8 +68,14 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MacarenaQuijadaG&theme=dracula&show_icons=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacarenaQuijadaG&theme=dracula&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MacarenaQuijadaG&theme=dracula&show_icons=true&count_private=true&hide=prs" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacarenaQuijadaG&theme=dracula&layout=compact&hide=css,html" height="150" alt="Top Languages" />
+</div>
+
+### 📊 Actividad de Contribución
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MacarenaQuijadaG&theme=dracula" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -93,3 +101,4 @@ Sistema de transacciones entre usuarios.
 Puedes contactarme a través de:  
 - **Email:** [mcarena.quijada@outlook.com](mailto:mcarena.quijada@outlook.com)  
 - [LinkedIn](https://www.linkedin.com/in/macarena-quijada-guzm%C3%A1n-430263191/)
+
