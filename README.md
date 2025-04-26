@@ -7,7 +7,8 @@
 
 ## 🛠️ Herramientas y Tecnologías
 
-### Lenguajes y Frameworks
+### 🚀 Lenguajes y Frameworks
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="15" />
@@ -40,7 +41,8 @@
   <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Fhandlebarsjs%2Fhandlebarsjs-icon.svg" height="40" alt="Handlebars logo" />
 </div>
 
-### Bases de Datos
+### 🗃️ Bases de Datos
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
   <img width="15" />
@@ -49,7 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
-### Herramientas y Otros
+### 🔧 Herramientas y Otros
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="15" />
@@ -71,15 +74,15 @@
 
 ## 📈 Proyectos Destacados
 
-### [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
+### 1. [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
 Un sistema que permite a estudiantes crear informes de tesis detallados y a docentes revisar y proporcionar observaciones.  
 **Tecnologías:** Python, Django, PostgreSQL
 
-### [Mercado Web](https://github.com/MacarenaQuijadaG/Mercado-web.git)
+### 2. [Mercado Web](https://github.com/MacarenaQuijadaG/Mercado-web.git)
 Una tienda en línea para vender verduras, con carrito de compras.  
 **Tecnologías:** Handlebars, Node.js, Express.js
 
-### [Banco Solar](https://github.com/MacarenaQuijadaG/Banco-Solar.git)
+### 3. [Banco Solar](https://github.com/MacarenaQuijadaG/Banco-Solar.git)
 Sistema de transacciones entre usuarios.  
 **Tecnologías:** HTML, JavaScript, Node.js, Express.js, PostgreSQL
 
@@ -90,4 +93,3 @@ Sistema de transacciones entre usuarios.
 Puedes contactarme a través de:  
 - **Email:** [mcarena.quijada@outlook.com](mailto:mcarena.quijada@outlook.com)  
 - [LinkedIn](https://www.linkedin.com/in/macarena-quijada-guzm%C3%A1n-430263191/)
-
