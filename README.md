@@ -71,13 +71,6 @@ Soy una apasionada desarrolladora con experiencia en diversas tecnologías web, 
   <img src="https://github-readme-stats.vercel.app/api?username=MacarenaQuijadaG&theme=dracula&show_icons=true&count_private=true&hide=prs" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacarenaQuijadaG&theme=dracula&layout=compact&hide=css,html" height="150" alt="Top Languages" />
 </div>
-
-### 📊 Actividad de Contribución
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MacarenaQuijadaG&theme=dracula" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 ## 📈 Proyectos Destacados
