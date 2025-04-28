@@ -75,15 +75,15 @@ Soy una apasionada desarrolladora con experiencia en diversas tecnologías web, 
 
 ## 📈 Proyectos Destacados
 
-### 1. [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
+### [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
 Un sistema que permite a estudiantes crear informes de tesis detallados y a docentes revisar y proporcionar observaciones.  
 **Tecnologías:** Python, Django, PostgreSQL
 
-### 2. [Mercado Web](https://github.com/MacarenaQuijadaG/Mercado-web.git)
+### [Mercado Web](https://github.com/MacarenaQuijadaG/Mercado-web.git)
 Una tienda en línea para vender verduras, con carrito de compras.  
 **Tecnologías:** Handlebars, Node.js, Express.js
 
-### 3. [Banco Solar](https://github.com/MacarenaQuijadaG/Banco-Solar.git)
+### [Banco Solar](https://github.com/MacarenaQuijadaG/Banco-Solar.git)
 Sistema de transacciones entre usuarios.  
 **Tecnologías:** HTML, JavaScript, Node.js, Express.js, PostgreSQL
 
