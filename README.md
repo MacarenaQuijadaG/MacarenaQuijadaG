@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Maca!
+# 👋 ¡Hola, soy Macarena!
 
 **Ingeniera en Ejecución en Computación e Informática**  
 *(Desarrolladora Front End - Full Stack)*
