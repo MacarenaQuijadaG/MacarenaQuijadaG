@@ -6,7 +6,7 @@
 Soy una apasionada desarrolladora con experiencia en diversas tecnologías web, abarcando tanto el Front-End como el Back-End. Me encanta crear soluciones eficientes y escalables, siempre con el foco en mejorar la experiencia del usuario y optimizar los procesos de desarrollo. Trabajo con tecnologías como JavaScript, Python y Node.js, y utilizo frameworks como React, Vue, Angular y Django.
 Actualmente, estoy ampliando mis conocimientos estudiando una especialidad en Seguridad en Sistemas Operativos Windows Server y Linux.
 Estoy en constante aprendizaje y siempre entusiasmada por enfrentar nuevos desafíos que me permitan crecer personal y profesionalmente.
----
+
 
 ## 🛠️ Herramientas y Tecnologías
 
