@@ -3,9 +3,7 @@
 **Ingeniera en Ejecución en Computación e Informática**  
 *(Desarrolladora Front End - Full Stack)*
 
-Soy una apasionada desarrolladora con experiencia en diversas tecnologías web, abarcando tanto el Front-End como el Back-End. Me encanta crear soluciones eficientes y escalables, siempre con el foco en mejorar la experiencia del usuario y optimizar los procesos de desarrollo. Trabajo con tecnologías como JavaScript, Python y Node.js, y utilizo frameworks como React, Vue, Angular y Django.
-Actualmente, estoy ampliando mis conocimientos estudiando una especialidad en Seguridad en Sistemas Operativos Windows Server y Linux.
-Estoy en constante aprendizaje y siempre entusiasmada por enfrentar nuevos desafíos que me permitan crecer personal y profesionalmente.
+Desarrolladora apasionada por crear soluciones web eficientes y escalables, con experiencia en Front-End y Back-End. Trabajo con tecnologías como JavaScript, Python y Node.js, y frameworks como React, Vue, Angular y Django. Actualmente estudio una especialidad en Seguridad en Windows Server y Linux. Siempre aprendiendo y lista para nuevos desafíos.
 
 
 ## 🛠️ Herramientas y Tecnologías
