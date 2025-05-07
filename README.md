@@ -71,7 +71,7 @@ Desarrolladora apasionada por crear soluciones Web eficientes y escalables, con 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacarenaQuijadaG&theme=dracula&layout=compact&hide=css,html" height="150" alt="Top Languages" />
 </div>
 ---
-
+ 
 ## 📈 Proyectos Destacados
 
 ### [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
