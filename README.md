@@ -62,7 +62,7 @@ Desarrolladora apasionada por crear soluciones Web eficientes y escalables, con 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 </div>
 
----
+--- 
 
 ## 📊 Estadísticas de GitHub
 
