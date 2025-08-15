@@ -93,7 +93,7 @@ Tengo experiencia desarrollando proyectos web completos y sistemas seguros, pero
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img width="12"/>
 </div>
-
+---
 ### 🖥️ Sistemas Operativos
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows Server logo" />
