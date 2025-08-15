@@ -3,13 +3,13 @@
 **Ingeniera en Ejecución en Computación e Informática**  
 *(Desarrolladora Front End - Full Stack)*
 
-Desarrolladora apasionada por crear soluciones Web eficientes y escalables, con experiencia en Front-End y Back-End. Trabajo con tecnologías como JavaScript, Python y Node.js, y frameworks como React, Vue, Laravel y Django. Actualmente estudio una especialidad en Seguridad en Windows Server y Linux. Siempre aprendiendo y lista para nuevos desafíos.
+Soy una desarrolladora apasionada por crear soluciones Web eficientes y escalables, con experiencia en Front-End y Back-End. Trabajo con tecnologías como **JavaScript, Python y Node.js**, y frameworks como **React, Vue, Laravel y Django**. He completado una especialidad en **Seguridad en Windows Server y Linux**, combinando desarrollo web con conocimientos en ciberseguridad. Siempre aprendiendo y lista para nuevos desafíos.
 
+Soy de **Chile** y me dedico al **desarrollo web Full Stack**. Tengo experiencia desarrollando proyectos web utilizando Front-End y Back-End y aplicando buenas prácticas de seguridad informática en servidores y sistemas. Mi pasión, aprendizaje constante y capacidad de adaptación hacen que valga la pena contactarme.
 
 ## 🛠️ Herramientas y Tecnologías
 
 ### 💻 Lenguajes
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12"/>
@@ -25,7 +25,6 @@ Desarrolladora apasionada por crear soluciones Web eficientes y escalables, con 
 ---
 
 ### 🧩 Frameworks y Librerías
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
   <img width="12"/>
@@ -59,7 +58,6 @@ Desarrolladora apasionada por crear soluciones Web eficientes y escalables, con 
 ---
 
 ### 🗄️ Bases de Datos
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12"/>
@@ -73,7 +71,6 @@ Desarrolladora apasionada por crear soluciones Web eficientes y escalables, con 
 ---
 
 ### ⚙️ Herramientas y Plataformas
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo" />
   <img width="12"/>
@@ -100,16 +97,16 @@ Desarrolladora apasionada por crear soluciones Web eficientes y escalables, con 
   <img width="12"/>
 </div>
 
---- 
+---
 
 ## 📊 Estadísticas de GitHub
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MacarenaQuijadaG&theme=dracula&show_icons=true&count_private=true&hide=prs" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacarenaQuijadaG&theme=dracula&layout=compact&hide=css,html" height="150" alt="Top Languages" />
 </div>
+
 ---
- 
+
 ## 📈 Proyectos Destacados
 
 ### [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
@@ -127,16 +124,19 @@ Sistema de transacciones entre usuarios.
 ---
 
 ## 📫 Contacto
-
 Puedes contactarme a través de:  
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <a href="https://www.linkedin.com/in/macarena-quijada-guzm%C3%A1n-430263191/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://twitter.com/tu_usuario" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="mcarena.quijada@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <a href="https://www.linkedin.com/in/macarena-quijada-guzm%C3%A1n-430263191/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="discord://tu_usuario" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  <a href="mailto:mcarena.quijada@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
   </a>
 </div>
 
