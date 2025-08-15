@@ -96,6 +96,13 @@ Tengo experiencia desarrollando proyectos web completos y sistemas seguros, pero
   <img width="12"/>
 </div>
 
+### 🖥️ Sistemas Operativos
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows Server logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+</div>
+
 ---
 
 ## 📊 Estadísticas de GitHub
