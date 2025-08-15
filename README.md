@@ -1,11 +1,11 @@
-# 👋 ¡Hola, soy Macarena!  
+# 👋 ¡Hola, soy Macarena Quijada!  
 
 **Ingeniera en Ejecución en Computación e Informática**  
 *(Desarrolladora Front End - Full Stack)*
 
-Soy una desarrolladora apasionada por crear soluciones Web eficientes y escalables, con experiencia en Front-End y Back-End. Trabajo con tecnologías como **JavaScript, Python y Node.js**, y frameworks como **React, Vue, Laravel y Django**. He completado una especialidad en **Seguridad en Windows Server y Linux**, combinando desarrollo web con conocimientos en ciberseguridad. Siempre aprendiendo y lista para nuevos desafíos.
+desarrolladora **Full Stack** de Chile, apasionada por crear soluciones web eficientes y escalables. Me dedico al **desarrollo web Front-End y Back-End**, combinando mis conocimientos en **JavaScript, Python, Node.js y frameworks como React, Vue, Laravel y Django**. He completado una especialidad en **Seguridad en Windows Server y Linux**, aplicando buenas prácticas de ciberseguridad en mis proyectos.
 
-Soy de **Chile** y me dedico al **desarrollo web Full Stack**. Tengo experiencia desarrollando proyectos web utilizando Front-End y Back-End y aplicando buenas prácticas de seguridad informática en servidores y sistemas. Mi pasión, aprendizaje constante y capacidad de adaptación hacen que valga la pena contactarme.
+Tengo experiencia desarrollando proyectos web completos y sistemas seguros, pero si aún no nos conocemos, mi pasión, aprendizaje constante y capacidad de adaptación hacen que valga la pena contactarme.
 
 ## 🛠️ Herramientas y Tecnologías
 
