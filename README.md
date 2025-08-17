@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Macarena!  
+# 👋 ¡Hola, soy Macarena!   
 
 **Ingeniera en Ejecución en Computación e Informática**  
 
