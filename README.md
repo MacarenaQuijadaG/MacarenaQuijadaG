@@ -131,6 +131,10 @@ Sistema de transacciones entre usuarios.
 Portafolio de Configuración de Sistemas de Seguridad.  
 **Tecnologías:** Windows Server, Linux, Rocky 9, Ubuntu.
 
+### [Data Science](https://github.com/MacarenaQuijadaG/Data-Science.git)  
+Portafolio Curso de Data Science.  
+**Tecnologías:** Python, Google Colab, MySql.
+
 ---
 
 ## 📫 Contacto
