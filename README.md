@@ -117,15 +117,19 @@ Tengo experiencia desarrollando proyectos web completos y sistemas seguros, pero
 
 ### [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
 Un sistema que permite a estudiantes crear informes de tesis detallados y a docentes revisar y proporcionar observaciones.  
-**Tecnologías:** Python, Django, PostgreSQL
+**Tecnologías:** Python, Django, PostgreSQL.
 
 ### [Mercado Web](https://github.com/MacarenaQuijadaG/Mercado-web.git)
 Una tienda en línea para vender verduras, con carrito de compras.  
-**Tecnologías:** Handlebars, Node.js, Express.js
+**Tecnologías:** Handlebars, Node.js, Express.js.
 
 ### [Banco Solar](https://github.com/MacarenaQuijadaG/Banco-Solar.git)
 Sistema de transacciones entre usuarios.  
-**Tecnologías:** HTML, JavaScript, Node.js, Express.js, PostgreSQL
+**Tecnologías:** HTML, JavaScript, Node.js, Express.js, PostgreSQL.
+
+### [Seguridad Informatica](https://github.com/MacarenaQuijadaG/Seguridad-Informatica.git)
+Portafolio de Configuracion de Sistemas de Seguridad
+**Tecnologias:** Windows Server, Linux, Rocky 9, Ubuntu.
 
 ---
 
