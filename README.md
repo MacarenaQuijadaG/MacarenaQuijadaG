@@ -128,7 +128,7 @@ Sistema de transacciones entre usuarios.
 **Tecnologías:** HTML, JavaScript, Node.js, Express.js, PostgreSQL.
 
 ### [Seguridad Informatica](https://github.com/MacarenaQuijadaG/Seguridad-Informatica.git)
-Portafolio de Configuracion de Sistemas de Seguridad
+Portafolio de Configuracion de Sistemas de Seguridad.
 **Tecnologias:** Windows Server, Linux, Rocky 9, Ubuntu.
 
 ---
