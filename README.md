@@ -123,10 +123,6 @@ Un sistema que permite a estudiantes crear informes de tesis detallados y a doce
 Una tienda en línea para vender verduras, con carrito de compras.  
 **Tecnologías:** Handlebars, Node.js, Express.js.
 
-### [Banco Solar](https://github.com/MacarenaQuijadaG/Banco-Solar.git)
-Sistema de transacciones entre usuarios.  
-**Tecnologías:** HTML, JavaScript, Node.js, Express.js, PostgreSQL.
-
 ### [Seguridad Informatica](https://github.com/MacarenaQuijadaG/Seguridad-Informatica.git)  
 Portafolio de Configuración de Sistemas de Seguridad.  
 **Tecnologías:** Windows Server, Linux, Rocky 9, Ubuntu.
