@@ -6,7 +6,7 @@
 
 Desarrolladora **Full Stack** de Chile, apasionada por crear soluciones web eficientes y escalables. Me dedico al **desarrollo web Front-End y Back-End**, combinando mis conocimientos en **JavaScript, Python, Node.js y frameworks como React, Vue, Laravel y Django**. He completado una especialidad en **Seguridad en Windows Server y Linux**, aplicando buenas prácticas de ciberseguridad en mis proyectos.
 
-Tengo experiencia desarrollando proyectos web completos y sistemas seguros, pero si aún no nos conocemos, mi pasión, aprendizaje constante y capacidad de adaptación hacen que valga la pena contactarme.
+Tengo experiencia desarrollando proyectos web completos y sistemas seguros, pero si aún no nos conocemos, mi pasión, aprendizaje constante y capacidad de adaptación.
 
 ## 🛠️ Herramientas y Tecnologías
 
