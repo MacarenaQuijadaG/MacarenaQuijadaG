@@ -117,10 +117,8 @@ Soy Desarrolladora **Full Stack** de Chile y me encanta crear aplicaciones web q
 Un sistema que permite a estudiantes crear informes de tesis detallados y a docentes revisar y proporcionar observaciones.  
 **Tecnologías:** Python, Django, PostgreSQL.
 
-### [Mercado Web](https://github.com/MacarenaQuijadaG/Mercado-web.git)
-Una tienda en línea para vender verduras, con carrito de compras.  
-**Tecnologías:** Handlebars, Node.js, Express.js.
 
+## 📈 Portafolios
 ### [Seguridad Informatica](https://github.com/MacarenaQuijadaG/Seguridad-Informatica.git)  
 Portafolio de Configuración de Sistemas de Seguridad.  
 **Tecnologías:** Windows Server, Linux, Rocky 9, Ubuntu.
