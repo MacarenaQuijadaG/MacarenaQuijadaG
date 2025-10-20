@@ -4,6 +4,12 @@
 
 Soy Desarrolladora **Full Stack** de Chile y me encanta crear aplicaciones web que sean rápidas, seguras y fáciles de escalar. Trabajo con **JavaScript, PHP y Python**, y uso frameworks como **Laravel, React, Angular, Django y Node.js** para dar vida a mis proyectos, siempre aplicando buenas prácticas de desarrollo y seguridad.
 
+## Certificaciones 
+
+**[Front End]**(https://www.acreditta.com/credential/8ca7675d-19f3-4fcb-bbfe-203a2dd9e031?trk=public_profile_see-credential)
+**[Full Stack]**(https://www.acreditta.com/credential/7cfb46f7-00e9-4044-bcde-024283b45ecb?utm_source=linkedin_profile&resource_type=badge&resource=7cfb46f7-00e9-4044-bcde-024283b45ecb&trk=public_profile_see-credential)
+**[Oracle OCI]**(https://catalog-education.oracle.com/ords/certview/sharebadge?id=692DC1CC5808FBB0210A7D6DF85078B013504317329E0EDA8C0979B4DAFB0340)
+
 ## 🛠️ Herramientas y Tecnologías
 
 ### 💻 Lenguajes
