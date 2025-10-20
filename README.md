@@ -84,14 +84,6 @@ Soy Desarrolladora **Full Stack** de Chile y me encanta crear aplicaciones web q
 
 ---
 
-## 📊 Estadísticas de GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MacarenaQuijadaG&theme=dracula&show_icons=true&count_private=true&hide=prs" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MacarenaQuijadaG&theme=dracula&layout=compact&hide=css,html" height="150" alt="Top Languages" />
-</div>
-
----
-
 ## 📈 Proyectos Destacados
 
 ### [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
