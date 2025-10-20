@@ -8,22 +8,32 @@ Soy Desarrolladora **Full Stack** de Chile y me encanta crear aplicaciones web q
 
 ## 📜 Certificaciones
 
+
 <div style="display: flex; justify-content: space-between; width: 100%; max-width: 900px; margin: 0 auto;">
 
-  <a href="https://www.acreditta.com/credential/8ca7675d-19f3-4fcb-bbfe-203a2dd9e031?trk=public_profile_see-credential" target="_blank" style="text-align: center;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" height="50" alt="Front End Logo" /><br>
-    Front End
-  </a>
+  <!-- Izquierda -->
+  <div style="text-align: left;">
+    <a href="https://www.acreditta.com/credential/8ca7675d-19f3-4fcb-bbfe-203a2dd9e031?trk=public_profile_see-credential" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" height="50" alt="Front End Logo" /><br>
+      Front End
+    </a>
+  </div>
 
-  <a href="https://www.acreditta.com/credential/7cfb46f7-00e9-4044-bcde-024283b45ecb?utm_source=linkedin_profile&resource_type=badge&resource=7cfb46f7-00e9-4044-bcde-024283b45ecb&trk=public_profile_see-credential" target="_blank" style="text-align: center;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" height="50" alt="Full Stack Logo" /><br>
-    Full Stack
-  </a>
+  <!-- Centro -->
+  <div style="text-align: center;">
+    <a href="https://www.acreditta.com/credential/7cfb46f7-00e9-4044-bcde-024283b45ecb?utm_source=linkedin_profile&resource_type=badge&resource=7cfb46f7-00e9-4044-bcde-024283b45ecb&trk=public_profile_see-credential" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" height="50" alt="Full Stack Logo" /><br>
+      Full Stack
+    </a>
+  </div>
 
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=692DC1CC5808FBB0210A7D6DF85078B013504317329E0EDA8C0979B4DAFB0340" target="_blank" style="text-align: center;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" height="50" alt="Oracle OCI Logo" /><br>
-    Oracle OCI
-  </a>
+  <!-- Derecha -->
+  <div style="text-align: right;">
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=692DC1CC5808FBB0210A7D6DF85078B013504317329E0EDA8C0979B4DAFB0340" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" height="50" alt="Oracle OCI Logo" /><br>
+      Oracle OCI
+    </a>
+  </div>
 
 </div>
 
