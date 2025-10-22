@@ -6,13 +6,6 @@ Soy Desarrolladora **Full Stack** de Chile y me encanta crear aplicaciones web q
 
 ---
 
-## 📜 Certificaciones
-
-| <a href="https://www.acreditta.com/credential/8ca7675d-19f3-4fcb-bbfe-203a2dd9e031" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" height="40"/><br>Front End</a> | <a href="https://www.acreditta.com/credential/7cfb46f7-00e9-4044-bcde-024283b45ecb" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" height="40"/><br>Full Stack</a> | <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=692DC1CC5808FBB0210A7D6DF85078B013504317329E0EDA8C0979B4DAFB0340" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" height="40"/><br>Oracle OCI</a> |
-|:--:|:--:|:--:|
-
----
-
 ## 🛠️ Herramientas y Tecnologías
 
 ### 💻 Lenguajes
