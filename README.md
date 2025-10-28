@@ -81,7 +81,6 @@ Portafolio curso de Data Science.
 **Tecnologías:** Python, Google Colab, MySQL.
 
 ---
-
 ## 📫 Contacto
 
 Puedes contactarme a través de:
@@ -97,6 +96,7 @@ Puedes contactarme a través de:
     <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord" />
   </a>
   <a href="mailto:mcarena.quijada@outlook.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="30" alt="Outlook" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Outlook_2013-2019_logo.svg" width="40" height="30" alt="Outlook" />
   </a>
 </p>
+
