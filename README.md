@@ -83,19 +83,20 @@ Portafolio curso de Data Science.
 ---
 
 ## 📫 Contacto
-Puedes contactarme a través de:  
-<div align="left">
+
+Puedes contactarme a través de:
+
+<p align="left">
   <a href="https://twitter.com/tu_usuario" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/macarena-quijada-guzm%C3%A1n-430263191/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="LinkedIn" />
   </a>
-  <a href="discord://tu_usuario" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  <a href="https://discord.com/users/tu_usuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord" />
   </a>
   <a href="mailto:mcarena.quijada@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
+    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="30" alt="Outlook" />
   </a>
-</div>  
-
+</p>
