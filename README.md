@@ -3,7 +3,7 @@
 **[Página Portafolio](https://macarenaquijadag.github.io/Portafolio/)**
 
 Soy Desarrolladora **Full Stack** de Chile y me encanta crear aplicaciones web que sean rápidas, seguras y fáciles de escalar. Trabajo con **JavaScript, PHP y Python**, y uso frameworks como **Laravel, React, Vue.js, Angular, Django y Node.js** para dar vida a mis proyectos, siempre aplicando buenas prácticas de desarrollo y seguridad.
-
+   
 ---
 
 ## 🛠️ Herramientas y Tecnologías
@@ -71,6 +71,9 @@ Soy Desarrolladora **Full Stack** de Chile y me encanta crear aplicaciones web q
 ### [Automatización de Tesis](https://github.com/MacarenaQuijadaG/AutomatizacionTesis.git)
 Sistema que permite a estudiantes crear informes de tesis y a docentes revisar y proporcionar observaciones.  
 **Tecnologías:** Python, Django, PostgreSQL.
+
+
+## Portafolios
 
 ### [Seguridad Informática](https://github.com/MacarenaQuijadaG/Seguridad-Informatica.git)  
 Portafolio de configuración de sistemas de seguridad.  
