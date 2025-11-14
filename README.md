@@ -6,7 +6,7 @@ Soy Desarrolladora **Full Stack** de Chile y me encanta crear aplicaciones web q
    
 ---
 
-## 🛠️ Herramientas y Tecnologías
+## 🛠️ Herramientas y Tecnologías.  
 
 ### 💻 Lenguajes
 <div align="left">
