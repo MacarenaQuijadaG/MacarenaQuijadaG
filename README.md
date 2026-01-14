@@ -3,7 +3,7 @@
 
 Soy Desarrolladora **Full Stack** de Chile y me encanta crear aplicaciones web que sean rápidas, seguras y fáciles de escalar. Trabajo con **JavaScript, PHP y Python**, y uso frameworks como **Laravel, React, Vue.js, Angular, Django y Node.js** para dar vida a mis proyectos, siempre aplicando buenas prácticas de desarrollo y seguridad.
    
----
+---   
 
 ## 🛠️ Herramientas y Tecnologías.  
               
