@@ -87,19 +87,11 @@ Portafolio curso de Data Science.
 
 Puedes contactarme a través de:
 
-<p align="left">
-  <a href="https://twitter.com/tu_usuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/macarena-quijada-guzm%C3%A1n-430263191/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/tu_usuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord" />
-  </a>
-  <a href="mailto:mcarena.quijada@outlook.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" height="30"alt="Email"/>
-  </a>
+<p align="center">
+  <a href="https://twitter.com/tu_usuario"><img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/twitter/default.svg" width="40"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/macarena-quijada-guzm%C3%A1n-430263191/"><img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/linkedin/default.svg" width="40"></a>&nbsp;
+  <a href="https://discord.com/users/tu_usuario"><img src="https://cdn.jsdelivr.net/gh/maurodesouza/profile-readme-generator/src/assets/icons/social/discord/default.svg" width="40"></a>&nbsp;
+  <a href="mailto:mcarena.quijada@outlook.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40"></a>
 </p>
 
 
