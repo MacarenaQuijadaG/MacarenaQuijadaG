@@ -1,7 +1,7 @@
  # 👋 ¡Hola, soy Macarena!            
 **[Página Portafolio](https://macarenaquijadag.github.io/Portafolio/)**
 
-Soy Desarrolladora **Full Stack** de Chile y me encanta crear aplicaciones web que sean rápidas, seguras y fáciles de escalar. Trabajo con **JavaScript, PHP y Python**, y uso frameworks como **Laravel, React, Vue.js, Angular, Django y Node.js** para dar vida a mis proyectos, siempre aplicando buenas prácticas de desarrollo y seguridad.
+Soy Desarrolladora Full Stack de Chile, con formación en **Arquitectura Cloud** y **Seguridad de Sistemas Operativos Windows Server y Linux**. Cuento con experiencia en el desarrollo de aplicaciones web seguras, escalables y de alto rendimiento, trabajando con tecnologías como JavaScript, PHP y Python, además de frameworks y herramientas como Laravel, React, Vue.js, Angular, Django y Node.js. Me enfoco en aplicar buenas prácticas de desarrollo, ciberseguridad, administración de servidores y optimización de sistemas para crear soluciones modernas, eficientes y confiables.
    
 ---         
          
